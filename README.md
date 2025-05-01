@@ -4,7 +4,7 @@
 
 # Ansible Demo with Docker
 
-Created by Adnan Rasool | SAP- 500107389
+Created by Dhruv Dwivedi | SAP- 500101986
 
 This project demonstrates how to use Ansible to manage multiple Docker containers as target servers. It showcases Ansible's ability to automate server configuration and management across multiple hosts.
 
